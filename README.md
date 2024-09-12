@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on something cool<br>👯 I’m looking to collaborate on projects using Spring Boot and React<br>🌱 I’m currently learning from https://v2.scrimba.com/home<br>⚡ Fun fact (0.1 + 0.2) != 0.3
+🔭 I’m currently working on something cool!<br>👯 I’m looking to collaborate on projects using Spring Boot and React<br>🌱 I’m currently learning from https://v2.scrimba.com/home<br>⚡ Fun fact (0.1 + 0.2) != 0.3
 
 
 ## 🌐 Socials:
