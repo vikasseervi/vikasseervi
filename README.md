@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **vikasseervi357@gmail.com**
 
-- 📄 Know about my experiences, [resume](https://drive.google.com/file/d/10toNVYO6350AfWFnwYq64ck21S5HofYi/view?usp=sharing)
-
 - ⚡ Fun fact **Fun fact (0.1 + 0.2) != 0.3**
 
 - 🚀 Portfolio [here](https://vikas-portfolio-website.netlify.app/)!
